@@ -14,7 +14,7 @@
 - Tabla `CLAUDEWLST` (Lista de bibliotecas permitidas para buscar fuentes sincronizada con Aldon)
 - Tabla `CLAUDESKIP` (comandos nativos que no participan dentro de una investigacion - buscaserie)
 
-** Lo que vive en la Biblioteca personal del desarrollador:**
+**Lo que vive en la Biblioteca personal del `desarrollador`:**
 - `QCLAUDE` (landing zone de PUT, mantenida por el desarrollador — auditable)
 - `QGETSOL`/`QGETRES`,  (peticion de fuentes al iseries y resultado)
 - `QMRGSOL`/`QMRGRES`,  (peticion de PUT+Merge al iseries y resultado)
