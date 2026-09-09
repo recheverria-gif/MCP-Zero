@@ -26,13 +26,13 @@
 
 ## Las 5 tools del MCP
 
-| Tool | Qué hace |
+# Tool ¿Qué hace?
 
-| `iseries_solicitar_fuentes` | Resuelve archivo/biblioteca/tipo de un miembro solo con su nombre |
-| `iseries_descargar_fuentes` | Trae el fuente real (GET), decodifica EBCDIC del lado cliente |
-| `iseries_subir_fuentes` | Sube a `QCLAUDE` (landing zone), nunca al destino real (PUT) |
-| `iseries_merge_fuentes` | Reubica a destino vía `MRGSRC`, preserva `SRCDAT` hacia la libreria del desarrollador|
-| `iseries_investigar_fuentes` | Busca una cadena en el contenido de fuentes, sin descargar nada |
+- `iseries_solicitar_fuentes` -> Resuelve archivo/biblioteca/tipo de un miembro solo con su nombre 
+- `iseries_descargar_fuentes` -> Trae el fuente real (GET), decodifica EBCDIC del lado cliente 
+- `iseries_subir_fuentes` -> Sube a `QCLAUDE` (landing zone), nunca al destino real (PUT) 
+- `iseries_merge_fuentes` -> Reubica a destino vía `MRGSRC`, preserva `SRCDAT` hacia la libreria del desarrollador
+- `iseries_investigar_fuentes` -> Busca una cadena en el contenido de fuentes, sin descargar nada 
 
 
 ## Skills de Claude Code — 3 hablan directo con el MCP
