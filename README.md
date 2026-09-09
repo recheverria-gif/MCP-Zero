@@ -14,13 +14,13 @@
 - Tabla `CLAUDEWLST` (Lista de bibliotecas permitidas para buscar fuentes sincronizada con Aldon)
 - Tabla `CLAUDESKIP` (comandos nativos que no participan dentro de una investigacion - buscaserie)
 
-**Lo que vive en la Biblioteca personal del `desarrollador`:**
+**Lo que vive en la Biblioteca personal del `DESARROLLADOR`:**
 - `QCLAUDE` (landing zone de PUT, mantenida por el desarrollador — auditable)
 - `QGETSOL`/`QGETRES`,  (peticion de fuentes al iseries y resultado)
 - `QMRGSOL`/`QMRGRES`,  (peticion de PUT+Merge al iseries y resultado)
 - `QINVRES` (petición investigar por concepto - Buscaserie AS/400)
 
-**Comandos nativos IBM invocados, nunca reimplementados:**
+**Comandos nativos `IBM` invocados, nunca reimplementados:**
 - `MRGSRC`,  (Merge del fuente modificado directo a la librería del desarrollador)
 - `FNDSTRPDM`,  (Búsqueda de string)
 
