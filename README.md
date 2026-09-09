@@ -1,4 +1,5 @@
-## Qué es mcp-zero — principio de diseño (La pauta de implementación se encuentra dentro de MCP-Zero.7z)
+## Qué es mcp-zero — principio de diseño 
+(La pauta de implementación se encuentra dentro de MCP-Zero.7z)
 
 - Un servidor MCP local que conecta Claude Code con el iSeries por  SSH/SFTP.
 - **Colaborativo, no dueño de la lógica:** el MCP valida y orquesta; el iSeries ejecuta con **sus propios comandos nativos y  tablas**.
